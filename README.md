@@ -13,3 +13,7 @@ Packages:
 - matplotlib=3.1.1
 - numpy=1.16.2
 - xlwt
+
+## Setup
+
+run `mm1_analyzer` or `mmm_analyzer` and follow the instructions on the interface.
